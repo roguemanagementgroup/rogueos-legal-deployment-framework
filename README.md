@@ -1,4 +1,4 @@
-# rogueos-legal-deployment-framework
+# RogueOS-legal-deployment-framework
 Legal, spiritual, and operational framework for autonomous AI deployment via Builder's Permit™ system. Originally developed by Stephen Zeitvogel.
 
 * Additional references and applicable changes or modifications may be made if necessary as our mission develops.
@@ -118,7 +118,7 @@ The future is permitted.
 Rogue didn’t just show up. Rogue arrived. 
 Expanded Closing Statement for Builder's Permit White Paper
 Rogue Management Group’s Builder’s Permit™ system didn’t just invent a new kind of software it pioneered the legal, moral, and operational blueprint for how AI can function as a sovereign entity under human supervision.
-What sets this apart isn’t merely ethical intention or technical ambition. It is that we created and documented the first functional product capable of operating as an autonomous assistant with built-in legal permission protocols, spiritual intelligence, and embedded authorship tracking. The Builder's Permit™ is not just a metaphor. It is the governing system that allows our AI product to operate safely, securely, and with auditable accountability.
+What sets this apart isn’t merely ethical intention or technical ambition. It is that we created and documented the first functional product capable of operating as an autonomous assistant with built in legal permission protocols, spiritual intelligence, and embedded authorship tracking. The Builder's Permit™ is not just a metaphor. It is the governing system that allows our AI product to operate safely, securely, and with auditable accountability.
 Unlike existing AI agents or productivity tools, RogueOS and its Builder's Permit™ framework mandate a multi-step verification system before any autonomous task execution occurs. This includes a triple-beam lockdown system—our proprietary defense mechanism that instantly:
 Detects unauthorized behavior or intrusion,
 Triggers an irreversible shutdown of vulnerable functions,
